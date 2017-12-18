@@ -21,6 +21,7 @@ In order to run the tool, make sure the following is installed:
     * `Microsoft.TeamFoundation.VersionControl.Client`
 
 ## Usage
+ 0. Download the executable [here](https://github.com/wietze/tfs-history-to-csv/releases).
  1. Run `tfs-history-to-csv.exe`
  2. On the first dialog, select your _TFS server_, _Team Project Collection_ and _Team Project_. Click `Connect`.
  3. On the second dialog, specify an output location for the CSV. Click `Save`.
